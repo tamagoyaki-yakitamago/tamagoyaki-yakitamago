@@ -9,7 +9,7 @@
 
 - 🧑‍💻 脆弱性診断士です。I'm a backend engineer.
 - 🌱 セキュリティについて学んでいます / I’m currently learning security!
-- 📫 How to reach me: 
+- 📫 連絡方法 / How to reach me: 
   - 🐦 X：[@yakitamago_san](https://x.com/yakitamago_san)
   - 📘 Zenn：[tamagoyaki on Zenn](https://zenn.dev/tamagoyaki)
 <br>
