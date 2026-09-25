@@ -1,4 +1,6 @@
-![header](assets/header.svg)
+<p align="center">
+    <img src="assets/header.svg">
+</p>
 
 <h1 align="right">
   <img src="https://komarev.com/ghpvc/?username=tamagoyaki-yakitamago" />
