@@ -1,8 +1,10 @@
-<!-- 1. GitHub usernameを変更 -->
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=tamagoyaki-yakitamago" />
-</div>
+<p align="center">
+  ./assets/header.svg
+</p>
 
+<h1 align="center">
+  <img src="https://komarev.com/ghpvc/?username=tamagoyaki-yakitamago" /> tamagoyaki-yakitamago
+</h1>
 
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> こんにちは、tamagoyakiです / Hi, I'm tamagoyaki
@@ -25,7 +27,10 @@
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
-<div align="left"> 
+<div align="left">     
+    ![GitHub followers](https://img.shields.io/github/followers/username?label=Follow&style=social)
+    ![Twitter Follow](https://img.shields.io/twitter/follow/username?style=social)
+
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=tamagoyaki-yakitamago&theme=vue-dark&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamagoyaki-yakitamago&theme=vue-dark&layout=compact" />
 </div>
