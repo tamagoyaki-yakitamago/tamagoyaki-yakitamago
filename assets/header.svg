@@ -1,7 +1,7 @@
 <svg
   xmlns="http://www.w3.org/2000/svg"
-  width="1200"
-  height="300"
+  width="100%"
+  height="100%"
   viewBox="0 0 1200 300">
 
   <defs>
@@ -117,56 +117,13 @@
   <circle cx="1100" cy="60" r="2" fill="#ffffff"/>
 
   <!-- title -->
-  <text x="420" y="95" class="title">
-    TAMAGOYAKI
+  <text x="50%" y="95" class="title" text-anchor="middle">
+    tamagoyaki-yakitamago
   </text>
 
-  <text x="430" y="130" class="subtitle">
-    Security Engineer | AppSec | AWS | Go
+  <text x="50%" y="130" class="subtitle" text-anchor="middle">
+    Security Engineer | AppSec | AWS | Python | Go
   </text>
-
-  <!-- chef -->
-
-  <!-- hat -->
-  <rect x="80" y="78" width="60" height="14" fill="#ffffff"/>
-
-  <!-- head -->
-  <rect x="90" y="92" width="40" height="40" fill="#f0c7a0"/>
-
-  <!-- body -->
-  <rect x="85" y="132" width="50" height="55" fill="#58a6ff"/>
-
-  <!-- legs -->
-  <rect x="92" y="187" width="12" height="35" fill="#666"/>
-  <rect x="116" y="187" width="12" height="35" fill="#666"/>
-
-  <!-- arm -->
-  <g class="arm">
-    <rect x="130" y="140" width="80" height="10" fill="#f0c7a0"/>
-  </g>
-
-  <!-- stove -->
-  <rect x="190" y="165" width="90" height="20" fill="#555"/>
-
-  <!-- pan -->
-  <ellipse cx="225" cy="150" rx="45" ry="12" fill="#2a2a2a"/>
-  <rect x="260" y="147" width="35" height="6" fill="#707070"/>
-
-  <!-- omelet -->
-  <g class="omelet">
-    <rect
-      x="210"
-      y="138"
-      width="30"
-      height="15"
-      rx="3"
-      fill="#FFD54F"/>
-  </g>
-
-  <!-- steam -->
-  <rect class="steam1" x="215" y="110" width="4" height="15" fill="#ffffff"/>
-  <rect class="steam2" x="228" y="100" width="4" height="15" fill="#ffffff"/>
-  <rect class="steam3" x="242" y="110" width="4" height="15" fill="#ffffff"/>
 
   <!-- RPG Panel -->
   <rect
@@ -183,7 +140,7 @@
   </text>
 
   <text x="425" y="210" class="panel-text">
-    LV    : 99
+    LV    : 0
   </text>
 
   <text x="425" y="230" class="panel-text">
@@ -195,7 +152,7 @@
   </text>
 
   <!-- contribution grid -->
-  <g transform="translate(900,90)">
+  <g transform="translate(60, 90)">
 
     <rect class="grass1" x="0" y="0" width="20" height="20"/>
     <rect class="grass2" x="25" y="0" width="20" height="20"/>
@@ -218,9 +175,33 @@
       font-family="monospace"
       font-size="14"
       fill="#FFD54F">
-      GitHub Grass → Tamagoyaki
+      GitHub Grass
+    </text>
+    <text
+      x="45"
+      y="130"
+      font-family="monospace"
+      font-size="14"
+      fill="#FFD54F">
+       ↓ 
+    </text>
+    <text
+      x="-30"
+      y="150"
+      font-family="monospace"
+      font-size="14"
+      fill="#FFD54F">
+      tamagoyaki-yakitamago
     </text>
 
   </g>
+
+  <!-- chef -->
+  <image
+    href="chef.png"
+    x="900"
+    y="25"
+    width="256"
+    height="256" />
 
 </svg>

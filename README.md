@@ -31,7 +31,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/tamagoyaki-yakitamago?label=Follow&style=social)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/tamagoyaki-yakitamago?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/yakitamago_san?style=social)
 
 </div>
 
