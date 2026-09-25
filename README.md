@@ -1,6 +1,4 @@
-<p align="center">
-    <img src="assets/header.svg">
-</p>
+![header](assets/header.svg)
 
 <h1 align="right">
   <img src="https://komarev.com/ghpvc/?username=tamagoyaki-yakitamago" />
