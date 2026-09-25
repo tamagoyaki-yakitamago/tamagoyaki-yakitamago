@@ -29,14 +29,15 @@
 ## 🏃‍♀️ Activities
 <div align="left">     
 
-![GitHub followers](https://img.shields.io/github/followers/tamagoyaki-yakitamago?label=Follow&style=social)
+[![GitHub followers][badge-url]][github]
 
-![Twitter Follow](https://img.shields.io/twitter/follow/yakitamago_san?style=social)
+[badge-url]: https://img.shields.io/github/followers/tamagoyaki-yakitamago?label=Follow&style=social
+[github]: https://github.com/tamagoyaki-yakitamago?tab=followers
 
-[![Twitter URL][badge-url]][twitter]
+[![Twitter URL][badge-url2]][twitter]
 
-[badge-url]: ttps://img.shields.io/twitter/follow/yakitamago_san?style=social&url=https%3A%2F%2Ftwitter.com%2Fyakitamago_san
-[twitter]: https://x.com/yakitamago_san
+[badge-url2]: https://img.shields.io/twitter/follow/yakitamago_san?style=social
+[twitter]: https://x.com/intent/follow?screen_name=yakitamago_san
 
 </div>
 
