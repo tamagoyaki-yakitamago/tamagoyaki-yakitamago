@@ -1,8 +1,10 @@
-<!-- 1. GitHub usernameを変更 -->
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=tamagoyaki-yakitamago" />
-</div>
+<p align="center">
+    <img src="assets/header.svg">
+</p>
 
+<h1 align="right">
+  <img src="https://komarev.com/ghpvc/?username=tamagoyaki-yakitamago" />
+</h1>
 
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> こんにちは、tamagoyakiです / Hi, I'm tamagoyaki
@@ -25,9 +27,18 @@
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=tamagoyaki-yakitamago&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamagoyaki-yakitamago&theme=vue-dark&layout=compact" />
+<div align="left">     
+
+[![GitHub followers][badge-url]][github]
+
+[badge-url]: https://img.shields.io/github/followers/tamagoyaki-yakitamago?label=Follow&style=social
+[github]: https://github.com/tamagoyaki-yakitamago?tab=followers
+
+[![Twitter URL][badge-url2]][twitter]
+
+[badge-url2]: https://img.shields.io/twitter/follow/yakitamago_san?style=social
+[twitter]: https://x.com/intent/follow?screen_name=yakitamago_san
+
 </div>
 
 
