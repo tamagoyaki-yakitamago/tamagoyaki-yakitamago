@@ -33,6 +33,11 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/yakitamago_san?style=social)
 
+[![Twitter URL][badge-url]][twitter]
+
+[badge-url]: ttps://img.shields.io/twitter/follow/yakitamago_san?style=social&url=https%3A%2F%2Ftwitter.com%2Fyakitamago_san
+[twitter]: https://x.com/yakitamago_san
+
 </div>
 
 
