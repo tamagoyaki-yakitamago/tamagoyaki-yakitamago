@@ -1,9 +1,9 @@
 <p align="center">
-  ./assets/header.svg
+./assets/header.svg
 </p>
 
-<h1 align="center">
-  <img src="https://komarev.com/ghpvc/?username=tamagoyaki-yakitamago" /> tamagoyaki-yakitamago
+<h1 align="right">
+  <img src="https://komarev.com/ghpvc/?username=tamagoyaki-yakitamago" />
 </h1>
 
 <!-- 2. プロフィールや連絡先を変更 -->
@@ -28,11 +28,11 @@
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="left">     
-    ![GitHub followers](https://img.shields.io/github/followers/username?label=Follow&style=social)
-    ![Twitter Follow](https://img.shields.io/twitter/follow/username?style=social)
 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=tamagoyaki-yakitamago&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamagoyaki-yakitamago&theme=vue-dark&layout=compact" />
+![GitHub followers](https://img.shields.io/github/followers/tamagoyaki-yakitamago?label=Follow&style=social)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/tamagoyaki-yakitamago?style=social)
+
 </div>
 
 
